@@ -3,10 +3,18 @@ def mario
   greeting = 'It's-a me, Mario!'
   puts greeting
 end
-puts mario
 
 def toadstool
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts status
 end
-puts toadstool
+
+def link
+  warning = "It's Dangerous To Go Alone! Take this."
+  puts warning
+end
+
+
+def all_phrases 
+  
+end
