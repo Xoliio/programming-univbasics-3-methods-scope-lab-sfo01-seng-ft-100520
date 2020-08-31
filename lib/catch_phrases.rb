@@ -1,8 +1,8 @@
 status = 'Thank You Mario! But Our Princess Is In Another Castle!'
 
 def mario
-  puts "It's-a me, Mario!"
-  puts status
+  greeting = "It's-a me, Mario!"
+  puts greeting
 end
 
 def toadstool
