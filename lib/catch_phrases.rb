@@ -15,7 +15,7 @@ def link
 end
 
 
-def all_phrases 
+def all_phrases
   puts greeting
   puts status
   puts warning 
