@@ -16,7 +16,7 @@ end
 
 
 def all_phrases
-  puts greeting
-  puts status
-  puts warning
+  puts mario
+  puts toadstool
+  puts link
 end
