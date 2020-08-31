@@ -1,7 +1,7 @@
 
 
 def mario
-  greeting = "It's-a me, Mario!"
+  greeting = 'It's-a me, Mario!'
   puts greeting
 end
 
