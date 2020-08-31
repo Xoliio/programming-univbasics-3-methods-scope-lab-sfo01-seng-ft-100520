@@ -16,5 +16,7 @@ end
 
 
 def all_phrases 
-  
+  puts greeting
+  puts status
+  puts warning 
 end
